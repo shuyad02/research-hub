@@ -1,0 +1,8 @@
+node_modules/
+.next/
+backend/target/
+backend/jdk-21.0.2+13/
+backend/apache-maven-3.9.6/
+backend/uploads/
+.env.local
+*.zip
